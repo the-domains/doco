@@ -4,7 +4,7 @@
         <description><![CDATA[DoCo]]></description>
         <link>https://thegrid.ai/doco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 02:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 02:09:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doco/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My First Post]]></title>
@@ -19,6 +19,13 @@
             <link>http://fredoart.com/</link>
             <guid isPermaLink="false">d59d81b7-3c46-4f58-8771-c1208158588b</guid>
             <pubDate>Wed, 13 Jul 2016 02:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Come Up BMX]]></title>
+            <description><![CDATA[<article><h1>The Come Up BMX</h1><p>Boyd Hilder and Alex Hiam put on a big skatepark jam in Brisbane while Ben Norris was in town and a ton of people came out and had a good time, enjoy. Check out the first episode of Drew Beznanson's new web video series called " The Learning Curve " following his journey transitioning from BMX to slopestyle MTB.</p><img src="http://c304977.r77.cf1.rackcdn.com/backend/wp-content/uploads/2013/12/photo.jpg"></article>]]></description>
+            <link>http://thecomeup.com/bmx/</link>
+            <guid isPermaLink="false">cab552a3-3054-4ec7-b77f-535aa7b11cf2</guid>
+            <pubDate>Wed, 13 Jul 2016 02:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Finlandia Caviar Shop and Restaurant, Helsinki, Finland ]]></title>
