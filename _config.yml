@@ -1,14 +1,14 @@
-layout_spectrum: 0.9895532545633614
+layout_spectrum: 0.8378090607002378
 typography_spectrum: 0.5678191201295704
 color:
-  brandStrength: 0.8875960803125054
-  lightness: 0.37688526953570545
-  saturation: 0.33345085522159934
-  rhythmicContrast: 0.2129118039738387
+  brandStrength: 0.7556618724483997
+  lightness: 0.7985093903262168
+  saturation: 0.3015524570364505
+  rhythmicContrast: 0.0614283278118819
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: DoCo
