@@ -4,8 +4,15 @@
         <description><![CDATA[DoCo]]></description>
         <link>https://thegrid.ai/doco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 02:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 02:09:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/doco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My First Post]]></title>
+            <description><![CDATA[<article><h1>My First Post</h1><p>This website using a series of complex algorithms to “design” a well-made, user-friendly website.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/deebb73e577357abf5c8b6dd564ef6cd/croprotate.jpg?cropheight=940&cropwidth=1366&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4b998e92-6fca-4cd7-bb82-b2db59ab1c17.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b998e92-6fca-4cd7-bb82-b2db59ab1c17.jpg</link>
+            <guid isPermaLink="false">ff49c139-f9f0-4644-88de-d0df165690ac</guid>
+            <pubDate>Wed, 13 Jul 2016 02:09:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Growing up in Venezuela I knew early-on that drawing was my form of self expression. I realized that I had a connection between my brain and my hands that allowed me to represent easily what I was thinking or seeing.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ad4fc79f36ab1df41baa992d416add2d/noop?input=http%3A%2F%2Fnebula.wsimg.com%2F2624c3d29217fa4aab2aecd3b51a5fd2%3FAccessKeyId%3D0AF9C70A034CDBEFAD71%26disposition%3D0"></article>]]></description>
